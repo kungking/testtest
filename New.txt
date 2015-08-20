@@ -1,1 +1,2 @@
 create table student
+bom jariya sukkha 13 08 1992
