@@ -1,2 +1,3 @@
 create table student
 bom jariya sukkha 13 08 1992
+12345 hahaha
